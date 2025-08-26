@@ -5,4 +5,4 @@ This project focuses on building machine learning models to classify whether a p
 Chronic Kidney Disease is a significant global health issue, and early detection can drastically improve patient outcomes. Machine learning models can help identify high risk patients by analyzing clinical and laboratory data. This project leverages three algorithms with distinct strengths:
 ## Naive Bayes 
 A simple probabilistic model that assumes feature independence. It is fast, interpretable, and useful as a baseline.
-
+## K Nearest Neighbors (KNN) 
