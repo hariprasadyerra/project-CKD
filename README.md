@@ -8,3 +8,4 @@ A simple probabilistic model that assumes feature independence. It is fast, inte
 ## K Nearest Neighbors (KNN) 
 A non parametric method that classifies based on similarity to neighboring data points. It is intuitive but sensitive to scaling and irrelevant features.
 ## LightGBM
+A gradient boosting framework optimized for speed and efficiency, capable of capturing complex, non linear relationships. Often the strongest performer on structured/tabular data.
