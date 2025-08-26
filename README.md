@@ -6,3 +6,4 @@ Chronic Kidney Disease is a significant global health issue, and early detection
 ## Naive Bayes 
 A simple probabilistic model that assumes feature independence. It is fast, interpretable, and useful as a baseline.
 ## K Nearest Neighbors (KNN) 
+A non parametric method that classifies based on similarity to neighboring data points. It is intuitive but sensitive to scaling and irrelevant features.
